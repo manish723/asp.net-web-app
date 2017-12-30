@@ -9,4 +9,7 @@ Review table stored in the database.This app uses SQL server for database connec
 for theme selection which allows a user to select a theme for your website.Currently, there are 2 themes.The 
 theme preferences are stored in the cookies for the future reference.The app uses various controls such as 
 contact form controls and banner controls.
+
+The IDE used for this project is Visual Studio with NuGet Package manager.
+
 ```
